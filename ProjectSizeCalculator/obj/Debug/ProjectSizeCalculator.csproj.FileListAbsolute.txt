@@ -1,8 +1,0 @@
-C:\Users\koenp\Documents\GitHub\Fun\sizecalc\ProjectSizeCalculator\bin\Debug\ProjectSizeCalculator.exe
-C:\Users\koenp\Documents\GitHub\Fun\sizecalc\ProjectSizeCalculator\bin\Debug\ProjectSizeCalculator.pdb
-C:\Users\koenp\Documents\GitHub\Fun\sizecalc\ProjectSizeCalculator\obj\Debug\ProjectSizeCalculator.csprojResolveAssemblyReference.cache
-C:\Users\koenp\Documents\GitHub\Fun\sizecalc\ProjectSizeCalculator\obj\Debug\ProjectSizeCalculator.ProjectSizeForm.resources
-C:\Users\koenp\Documents\GitHub\Fun\sizecalc\ProjectSizeCalculator\obj\Debug\ProjectSizeCalculator.Properties.Resources.resources
-C:\Users\koenp\Documents\GitHub\Fun\sizecalc\ProjectSizeCalculator\obj\Debug\ProjectSizeCalculator.csproj.GenerateResource.Cache
-C:\Users\koenp\Documents\GitHub\Fun\sizecalc\ProjectSizeCalculator\obj\Debug\ProjectSizeCalculator.exe
-C:\Users\koenp\Documents\GitHub\Fun\sizecalc\ProjectSizeCalculator\obj\Debug\ProjectSizeCalculator.pdb
